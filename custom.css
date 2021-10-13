@@ -1,0 +1,163 @@
+.title {
+    font-size: 42px;
+}
+.btn-signup {
+    background-color: #00674b;
+    border-color: #00674b;
+    border-radius: 2px;
+    height: 40px;
+    padding: 0 20px;
+    line-height: 40px;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.btn-login {
+    height: 40px;
+    color: #6a6d75;
+    padding: 0 20px;
+    line-height: 40px;
+    font-size: 14px !important;
+    /* font-weight: 600; */
+}
+.navbar-font {
+    font-size: 18px;
+}
+.title-family {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.detail-title {
+    color: #6a6d75;
+}
+.total-time {
+    margin-left: 8px;
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: 2px;
+    color: #00a0df;
+}
+.premium-price {
+    color: #1eb392;
+    margin: 0 8px 0 0;
+    line-height: 1;
+    font-weight: 700;
+    font-size: 13px;
+}
+.serving {
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    line-height: 1;
+    color: #6a6d75;
+    font-size: 13px;
+}
+.small-title{
+    font-family: nyt-karnak-display-130124,nyt-stymie,Georgia,"Times New Roman",serif;
+}
+.instruction {
+    font-family: nyt-cheltenham-wide-hinted,nyt-cheltenham,Georgia,"Times New Roman",serif;
+}
+a {
+    text-decoration: none;
+    color: #00674b;
+}
+.btn-cooking {
+    background-color: #00674b;
+    border-color: #00674b;
+    border-radius: 2px;
+    height: 55px;
+    padding: 0 50px;
+    line-height: 40px;
+    font-size: 16px !important;
+    font-weight: 600;
+}
+.btn-viewfull {
+    color: #00674b;
+    font-size: 14px !important;
+}
+.btn-cookalong {
+    background-color: #00674b;
+    font-size: 14px !important;
+    color: white;
+    letter-spacing: 0.1em;
+}
+.font-fresh {
+    font-family: "Chronicle Ssm"; 
+    font-size: 20px
+}
+.font-incredient {
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #00674b;
+    letter-spacing: 0.1em;
+}
+.img-contain {
+    width: 100%;
+}
+.step-number {
+    background-color: #00674b;
+    color: #ffffff;
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    padding: 7px 11px;
+    width: 12px;
+    margin-right: 10px;
+    /* float: left; */
+    border-radius: 50%;
+}
+.font-blueapron {
+    font-size: 14px;
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    line-height: 1.7;
+    color: #6a6d75;
+}
+.footer-title {
+    color: #303236;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.btn-go {
+    background-color: #00674b;
+    color: white;
+    line-height: 20px;
+    font-weight: 700;
+    font-family: "Cera Pro", "HelveticaNeue", "Helvetica Neue", "HelveticaNeueRoman", "HelveticaNeue-Roman", "Helvetica Neue Roman", "TeXGyreHerosRegular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-size: 15px;
+}
+.font-signupoffer {
+    text-align: center;
+    color: #6a6d75;
+}
+.site-footer {
+    /* position: relative; */
+    background-color: #d7e5df;
+    z-index: 5;
+    padding: 5em 0;
+}
+.site-footer h3 {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.site-footer p {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #868e96;
+}
+.site-footer ul {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #868e96;
+}
